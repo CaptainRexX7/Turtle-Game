@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Door
+comment1.params=
+comment1.target=void\ act()
+comment2.params=file
+comment2.target=Door(java.lang.String)
+comment3.params=
+comment3.target=void\ collisonDetection()
+numComments=4
